@@ -1,0 +1,4 @@
+OBJECT_BASE 1644100.btg
+OBJECT SEQE.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -79.465012 -0.983014 81.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -79.465215 -0.995672 78.6 0.00
